@@ -1,0 +1,45 @@
+Contracts deployed to Matic Main Net
+Metadata Uploaded to IPFS.
+
+Naner: 0x3359c53935Eb2fdC56B395249434973A8f2C989A
+
+Metadata of "naner" was published successfully.
+@openzeppelin/contracts/access/Ownable.sol : 
+dweb:/ipfs/QmRD1rAZEqQ73C33cdA3QoUyBDMEWnNKNMc6PNkAZWHeQQ
+@openzeppelin/contracts/token/ERC20/ERC20.sol : 
+dweb:/ipfs/QmUTSQiDikkcNtTtyDpkEwCM5ztVUUh9c1inBukn6HC5Vr
+@openzeppelin/contracts/token/ERC20/IERC20.sol : 
+dweb:/ipfs/QmaG3R2J9cz92YT77vFjYrjMNU2wHp4ypwYD62HqDUqS5U
+@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol : 
+dweb:/ipfs/QmSim72e3ZVsfgZt8UceCvbiSuMRHR6WDsiamqNzZahGSY
+@openzeppelin/contracts/utils/Context.sol : 
+dweb:/ipfs/QmTbFya18786ckJfLYUoWau9jBTKfmWnWm5XSViWvB7PXN
+contracts/Naner.sol : 
+dweb:/ipfs/QmVetLEN69q9zV819Hgm4JwPjnLHnnarxPDikTKVrH8e1d
+metadata.json : 
+dweb:/ipfs/QmdqGJU1mKxEiz6KpL1ZqySfoCKd6oP8BjvPrQBEns1VJg
+
+
+MonkeBonfire: 0x24358C44f5CE86AC3f6815C456886714a85957b6
+
+Metadata of "monkebonfire" was published successfully.
+@openzeppelin/contracts/access/Ownable.sol : 
+dweb:/ipfs/QmRD1rAZEqQ73C33cdA3QoUyBDMEWnNKNMc6PNkAZWHeQQ
+@openzeppelin/contracts/token/ERC20/ERC20.sol : 
+dweb:/ipfs/QmUTSQiDikkcNtTtyDpkEwCM5ztVUUh9c1inBukn6HC5Vr
+@openzeppelin/contracts/token/ERC20/IERC20.sol : 
+dweb:/ipfs/QmaG3R2J9cz92YT77vFjYrjMNU2wHp4ypwYD62HqDUqS5U
+@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol : 
+dweb:/ipfs/QmSim72e3ZVsfgZt8UceCvbiSuMRHR6WDsiamqNzZahGSY
+@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol : 
+dweb:/ipfs/QmcT2Di5L9t82A9XdYDZ4tWMEPGFVFazKDwC2Vrd135AA3
+@openzeppelin/contracts/utils/Address.sol : 
+dweb:/ipfs/QmXmxubE3jnatFgZuN8ay1VV6hZ8WRmhvUjNpeVjki15HX
+@openzeppelin/contracts/utils/Context.sol : 
+dweb:/ipfs/QmTbFya18786ckJfLYUoWau9jBTKfmWnWm5XSViWvB7PXN
+contracts/MonkeBonfire.sol : 
+dweb:/ipfs/QmSKEH6jQFGCpdASHcWiAjhhkt7sz6S3DiizLkTyhEr6XG
+contracts/Naner.sol : 
+dweb:/ipfs/QmVetLEN69q9zV819Hgm4JwPjnLHnnarxPDikTKVrH8e1d
+metadata.json : 
+dweb:/ipfs/Qmbig4L2v5e39PMnfUhYDq2zxcLpqhR2ZaXiDXF3gBU9n2
